@@ -1,2 +1,2 @@
-# Hesaplayici
- hesaplama işlemlerinizi yapan bir javascript uygulaması
+# Calculator
+ a javascript application that does your programming
